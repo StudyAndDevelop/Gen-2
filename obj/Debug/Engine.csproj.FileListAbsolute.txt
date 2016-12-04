@@ -1,0 +1,142 @@
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ZPG_Server.exe.config
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ZPG_Server.exe
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ZPG_Server.pdb
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\Microsoft.OData.Client.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\Microsoft.OData.Core.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\Microsoft.OData.Edm.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\Microsoft.Spatial.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\Microsoft.OData.Client.xml
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\Microsoft.OData.Core.xml
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\Microsoft.OData.Edm.xml
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\Microsoft.Spatial.xml
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\de\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\es\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\it\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\de\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\es\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\it\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\de\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\es\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\fr\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\it\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ja\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ko\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\ru\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\obj\Debug\ZPG_Server.exe
+F:\Kostya\GIT\Gen-1\ZPG_Engine\ZPG_Server\obj\Debug\ZPG_Server.pdb
+F:\Kostya\GIT\Gen-1\bin\Debug\ZPG_Server.exe.config
+F:\Kostya\GIT\Gen-1\obj\Debug\ZPG_Server.exe
+F:\Kostya\GIT\Gen-1\obj\Debug\ZPG_Server.pdb
+F:\Kostya\GIT\Gen-1\bin\Debug\ZPG_Server.exe
+F:\Kostya\GIT\Gen-1\bin\Debug\ZPG_Server.pdb
+F:\Kostya\GIT\Gen-1\bin\Debug\Microsoft.OData.Client.xml
+F:\Kostya\GIT\Gen-1\bin\Debug\Microsoft.OData.Core.xml
+F:\Kostya\GIT\Gen-1\bin\Debug\Microsoft.OData.Edm.xml
+F:\Kostya\GIT\Gen-1\bin\Debug\Microsoft.Spatial.xml
+F:\Kostya\GIT\Gen-1\bin\Debug\de\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\es\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\it\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\de\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\es\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\it\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\de\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\es\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\fr\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\it\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ja\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ko\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\ru\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ZPG_Server.exe.config
+F:\Kostya\GIT\Gen-1 WIP\obj\Debug\ZPG_Server.exe
+F:\Kostya\GIT\Gen-1 WIP\obj\Debug\ZPG_Server.pdb
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ZPG_Server.exe
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ZPG_Server.pdb
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\Microsoft.OData.Client.xml
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\Microsoft.OData.Core.xml
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\Microsoft.OData.Edm.xml
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\Microsoft.Spatial.xml
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\de\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\es\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\it\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\de\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\es\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\it\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\de\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\es\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\fr\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\it\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ja\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ko\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\ru\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+F:\Kostya\GIT\Gen-1 WIP\obj\Debug\Engine.csprojResolveAssemblyReference.cache
